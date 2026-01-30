@@ -15,7 +15,7 @@ function App() {
         Gubbala Devika Lakshmi
       </h1>
       <p style={{ marginTop: "0" }}>
-        <br>Email: gubbaladevika65@gmail.com</br>
+        Email: gubbaladevika65@gmail.com<br />
         Phone: 9493788058
       </p>
 
