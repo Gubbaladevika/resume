@@ -16,11 +16,9 @@ function App() {
         Gubbala Devika Lakshmi
       </h1>
       <p style={{ marginTop: "0" }}>
-        Email: gubbaladevika65@gmail.com
+        <br>Email: gubbaladevika65@gmail.com</br>
         Phone: 9493788058
       </p>
-
-      <hr />
 
       {/* Career Objective */}
       <h3>CAREER OBJECTIVE</h3>
@@ -33,18 +31,10 @@ function App() {
 
       {/* Education */}
       <h3>EDUCATION</h3>
-      <p>
-        Master of Computer Applications-(MCA)[Pursuing]
-      </p>
-      <p>
-        Bachelor of Science-Pragati Degree College[2024]
-      </p>
-      <p>
-        Intermediate-Vijaya gayatri junior college[2020]
-      </p>
-      <p>
-        Ssc-Durga prasad school[2017]
-      </p>
+      <p>Master of Computer Applications-(MCA)[Pursuing]</p>
+      <p>Bachelor of Science-Pragati Degree College[2024]</p>
+      <p>Intermediate-Vijaya gayatri junior college[2020]</p>
+      <p>Ssc-Durga prasad school[2017]</p>
 
       {/* Skills */}
       <h3>SKILLS / TECHNOLOGIES</h3>
@@ -59,8 +49,8 @@ function App() {
       {/* Projects */}
       <h3>PROJECTS</h3>
       <p>
-        <b>Personal Resume Website</b><br />
-        • Developed a personal resume website using React<br />
+        <b>Personal Resume Website</b>
+        • Developed a personal resume website using React
         • Uploaded code to GitHub and deployed using Vercel
       </p>
 
