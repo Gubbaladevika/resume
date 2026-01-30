@@ -2,64 +2,57 @@ import './App.css';
 
 function App() {
   return (
-    <div style={{
-      maxWidth: "800px",
-      margin: "40px auto",
-      padding: "20px",
-      fontFamily: "Calibri, Arial",
-      lineHeight: "1.6"
-    }}>
+    <div className="resume">
 
-      {/* Name & Contact */}
-      <h1 style={{ marginBottom: "5px" }}>
-        Gubbala Devika Lakshmi
-      </h1>
-      <p style={{ marginTop: "0" }}>
-        Email: gubbaladevika65@gmail.com<br />
-        Phone: 9493788058
+      <h1 className="name">GUBBALA DEVIKA LAKSHMI</h1>
+      <p className="contact">
+        Phone: 9493788058<br />
+        Email: gubbaladevika65@gmail.com
       </p>
 
-      {/* Career Objective */}
       <h3>CAREER OBJECTIVE</h3>
-      <p>MCA student seeking an entry-level opportunity to apply
-        basic knowledge of web development technologies and to
-        grow as a software professional while contributing to
-        organizational goals. </p>
+      <p>
+        Aspiring Analyst Trainee with a strong foundation in computer applications and
+        programming concepts. Eager to contribute to technology-driven solutions by
+        applying analytical skills, technical knowledge, and a continuous learning mindset.
+      </p>
 
-      {/* Education */}
       <h3>EDUCATION</h3>
-      <p>Master of Computer Applications-(MCA)[Pursuing]</p>
-      <p>Bachelor of Science-Pragati Degree College[2024]</p>
-      <p>Intermediate-Vijaya gayatri junior college[2020]</p>
-      <p>Ssc-Durga prasad school[2017]</p>
+      <p>
+        <b>Master of Computer Applications (MCA)</b> – Pursuing<br />
+        <b>Bachelor of Science</b> – Pragati Degree College (2024)<br />
+        <b>Intermediate</b> – Vijaya Gayatri Junior College (2020)<br />
+        <b>SSC</b> – Durga Prasad School (2017)
+      </p>
 
-      {/* Skills */}
-      <h3>SKILLS / TECHNOLOGIES</h3>
-      <ul>
-        <li>HTML, CSS (Basic)</li>
-        <li>React (Basic)</li>
-        <li>Python (Basic)</li>
-        <li>Git & GitHub</li>
-        <li>Vercel Deployment</li>
-      </ul>
+      <h3>TECHNICAL SKILLS</h3>
+      <p>
+        <b>Programming Languages:</b> Java, Python<br />
+        <b>Web Technologies:</b> HTML, CSS<br />
+        <b>Databases:</b> SQL, MongoDB<br />
+        <b>Tools:</b> Git, Visual Studio Code<br />
+        <b>Core Concepts:</b> OOPS, DBMS
+      </p>
 
-      {/* Projects */}
       <h3>PROJECTS</h3>
       <p>
-        <b>Personal Resume Website</b><br />
-         Developed a personal resume website using React<br />
-         Uploaded code to GitHub and deployed using Vercel
+        <b>Web Development Mini Projects – HTML, CSS</b><br />
+        Created basic forms, layouts, and static web pages to understand front-end
+        development.
       </p>
 
-      {/* Certifications */}
       <h3>CERTIFICATIONS</h3>
-      <p>Cisco Networking Academy- C Essentials</p>
-      <p>Cisco Networking Academy- Python Essentials</p>
-      <p>Currently learning Web Development and React</p>
-      {/* Languages known*/}
-      <h3>LANGUAGES KNOWN</h3>
-        <p>Telugu</p>
-        <p>English</p>
+      <p>
+        Cisco Networking Academy – Python Essentials<br />
+        Cisco Networking Academy – C Essentials<br />
+        Pearson MePro – Soft Skills Certification<br />
+        HTML5 Application Development Certification
+      </p>
+
+      <h3>ADDITIONAL INFORMATION</h3>
+      <p>
+        <b>Languages Known:</b> English, Telugu
+      </p>
 
     </div>
   );
