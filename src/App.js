@@ -10,14 +10,14 @@ function App() {
         Email: gubbaladevika65@gmail.com
       </p>
 
-      <h3>CAREER OBJECTIVE</h3>
+      <h3 class="text-primary">CAREER OBJECTIVE</h3>
       <p>
         Aspiring Analyst Trainee with a strong foundation in computer applications and
         programming concepts. Eager to contribute to technology-driven solutions by
         applying analytical skills, technical knowledge, and a continuous learning mindset.
       </p>
 
-      <h3>EDUCATION</h3>
+      <h3 class="text-primary">EDUCATION</h3>
       <p>
         <b>Master of Computer Applications (MCA)</b> – Pursuing<br />
         <b>Bachelor of Science</b> – Pragati Degree College (2024)<br />
@@ -25,7 +25,7 @@ function App() {
         <b>SSC</b> – Durga Prasad School (2017)
       </p>
 
-      <h3>TECHNICAL SKILLS</h3>
+      <h3 class="text-primary">TECHNICAL SKILLS</h3>
       <p>
         <b>Programming Languages:</b> Java, Python<br />
         <b>Web Technologies:</b> HTML, CSS<br />
@@ -34,14 +34,14 @@ function App() {
         <b>Core Concepts:</b> OOPS, DBMS
       </p>
 
-      <h3>PROJECTS</h3>
+      <h3 class="text-primary">PROJECTS</h3>
       <p>
         <b>Web Development Mini Projects – HTML, CSS</b><br />
         Created basic forms, layouts, and static web pages to understand front-end
         development.
       </p>
 
-      <h3>CERTIFICATIONS</h3>
+      <h3 class="text-primary">CERTIFICATIONS</h3>
       <p>
         Cisco Networking Academy – Python Essentials<br />
         Cisco Networking Academy – C Essentials<br />
@@ -49,7 +49,7 @@ function App() {
         HTML5 Application Development Certification
       </p>
 
-      <h3>ADDITIONAL INFORMATION</h3>
+      <h3 class="text-primary">ADDITIONAL INFORMATION</h3>
       <p>
         <b>Languages Known:</b> English, Telugu
       </p>
